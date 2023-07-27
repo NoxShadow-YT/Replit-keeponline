@@ -6,8 +6,9 @@
 
 
 
-
-
+echo Somecode here.
+cowsay Even more code here. # cowsay requires you have cowsay.pkg in Replit.nix. It says things in a form of a cow.
+mdkir even-more-thing-in-between #!
 
 
 
